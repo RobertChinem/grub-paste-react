@@ -7,11 +7,11 @@ GRUB paste is a web application to share a personal code inspired in Pastebin.
 - 🔑 Cryptography on client-side
 
 # Screenshots
-![](images/lp.gif)
-![](images/menu.gif)
-![](images/create.gif)
-![](images/search.gif)
-![](images/view.gif)
+![](images/lp.png)
+![](images/menu.png)
+![](images/create.png)
+![](images/search.png)
+![](images/view.png)
 
 # 💡 Design 
 GRUB paste’s interface is a minimalist and monochromatic interface built using bootstrap 5.
